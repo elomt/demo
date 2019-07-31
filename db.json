@@ -1,16 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": {
     "name": "typicode"
   },
   "states": [
+  ]
+  "components": [
+    { "id": 434343, "name": "Den", "icon": "bulb" },
+    { "id": 4343, "name": "Living Room", "icon": "switch" },
+    { "id": 343, "name": "Home", "icon": "thermostat" },
+    { "id": 434343, "name": "Den", "icon": "bulb" },
+    { "id": 4343, "name": "Living Room", "icon": "switch" },
+    { "id": 343, "name": "Home", "icon": "thermostat" }
   ]
 }
