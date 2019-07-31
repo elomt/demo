@@ -6,11 +6,11 @@
   ],
   "components" : [
     { "id": 434343, "name": "Den", "icon": "bulb" },
-     { "id": 3434, "name": "Home", "icon": "thermostat" },
-     { "id": 555, "name": "Living Room", "icon": "switch" },
-     { "id": 5656, "name": "Samsung TV", "icon": "tv" },
-     { "id": 344, "name": "Sonos A", "icon": "stereo" },
-     { "id": 4334, "name": "hallway", "icon": "motionSensor" },
-     { "id": 34444, "name": "UNKNOWN", "icon": "unknown" },
+    { "id": 3434, "name": "Home", "icon": "thermostat" },
+    { "id": 555, "name": "Living Room", "icon": "switch" },
+    { "id": 5656, "name": "Samsung TV", "icon": "tv" },
+    { "id": 344, "name": "Sonos A", "icon": "stereo" },
+    { "id": 4334, "name": "hallway", "icon": "motionSensor" },
+    { "id": 34444, "name": "UNKNOWN", "icon": "unknown" }
   ]
 }
