@@ -5,11 +5,6 @@
   "states": [
   ],
   "components" : [
-    { "id": 434343, "name": "Den", "icon": "bulb" },
-    { "id": 4343, "name": "Living Room", "icon": "switch" },
-    { "id": 343, "name": "Home", "icon": "thermostat" },
-    { "id": 434343, "name": "Den", "icon": "bulb" },
-    { "id": 4343, "name": "Living Room", "icon": "switch" },
-    { "id": 343, "name": "Home", "icon": "thermostat" }
+    { "id": 434343, "name": "Den", "icon": "bulb" }
   ]
 }
