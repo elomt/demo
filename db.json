@@ -5,12 +5,12 @@
   "states": [
   ],
   "components" : [
-    { "id": 434343, "name": "Den", "icon": "bulb" },
-    { "id": 3434, "name": "Home", "icon": "thermostat" },
-    { "id": 555, "name": "Living Room", "icon": "switch" },
-    { "id": 5656, "name": "Samsung TV", "icon": "tv" },
-    { "id": 344, "name": "Sonos A", "icon": "stereo" },
-    { "id": 4334, "name": "hallway", "icon": "motionSensor" },
-    { "id": 34444, "name": "UNKNOWN", "icon": "unknown" }
+    { "id": 434343, "type": "bulb", "name": "Den", "icon": "bulb", "state": "on" },
+    { "id": 3434, "type": "bulb", "name": "Home", "icon": "thermostat" },
+    { "id": 555, "type": "light_switch", "name": "Living Room", "icon": "switch" },
+    { "id": 5656, "type": "TV", "name": "Samsung TV", "icon": "tv" },
+    { "id": 344, "type": "speaker","name": "Sonos A", "icon": "stereo" },
+    { "id": 4334, "type": "motion_sensor","name": "hallway", "icon": "sensor" },
+    { "id": 34444, "type": "unknown", "name": "UNKNOWN", "icon": "unknown" }
   ]
 }
